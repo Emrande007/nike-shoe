@@ -33,7 +33,7 @@
 }
 
 .card-title {
-    font-size: 30px;
+    font-size: 25px;
     color: #363958;
 }
 .card-text {
@@ -64,3 +64,52 @@
 .card {
     border: 0;
 }
+.brand-image img {
+    width: 100%;
+    float: left;
+}
+.btn-form{
+    font-size: 18px;
+    border-radius: 12px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin-top: 20px;
+    
+    
+}
+.des-text {
+    text-align: center;
+}
+.news-text {
+    text-align: center;
+}
+.input {
+    height: 30px;
+    border-radius: 12px;
+    padding: 22px;
+    margin-top: 5px;
+    border: 0;
+    text-align: center;
+}
+.navbar-toggler {
+    background-color: #FFCA2C;
+    position: relative;
+}
+.navbar-toggler-icon {
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 5px;
+    font-weight: 25px;
+}
+.card-section {
+    border-radius: 25px;
+}
+.small {
+    font-size: 25px;
+}
+
+.card img {
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: -90%;
+}
+
