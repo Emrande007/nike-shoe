@@ -64,6 +64,10 @@
 .card {
     border: 0;
 }
+.card img {
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: -90%;
+}
 .brand-image img {
     width: 100%;
     float: left;
@@ -108,8 +112,5 @@
     font-size: 25px;
 }
 
-.card img {
-    background-color: rgba(255, 255, 255, 0);
-    margin-top: -90%;
-}
+
 
